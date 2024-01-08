@@ -1,7 +1,7 @@
 class Voter {
     private String user;
     private String password;
-    private String name;
+    private String name; 
     private boolean isvoted;
     Voter(String user, String password, String name) {
         this.user = user; 
