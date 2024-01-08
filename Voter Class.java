@@ -4,7 +4,7 @@ class Voter {
     private String name;
     private boolean isvoted;
     Voter(String user, String password, String name) {
-        this.user = user;
+        this.user = user; 
         this.password = password;
         this.name = name;
         this.isvoted = false;
